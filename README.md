@@ -5,9 +5,9 @@
 
 <h4>1.1. Definitions</h4>
 
-Developer stands for a person or a legal entity who develops the SMSC Inspector application.
-User stands for a Google Play account holder who has installed SMSC Inspector and thus agreed to this Privacy Policy.
-Data Controller stands for a company which gathers and stores data SMSC Inspector collects from users.
+Developer stands for a person or a legal entity who develops the SMSC Inspector application.<br>
+User stands for a Google Play account holder who has installed SMSC Inspector and thus agreed to this Privacy Policy.<br>
+Data Controller stands for a company which gathers and stores data SMSC Inspector collects from the Users.<br>
 Mobile Network Operator (MNO) stands for a company which provides wireless communication services to the Users.
 
 <h4>1.2. General Principles</h4>
