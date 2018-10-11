@@ -1,4 +1,4 @@
-# SMSCInspectorPrivacy
+# SMSC Inspector Privacy Policy
 
 <h2>Privacy Policy</h2>
 <h4>1. Scope</h4>
@@ -56,8 +56,8 @@ A User should use other communication channels, such as e-mail or messenger appl
 
 <h4>5. Data Protection</h4>
 
-All data is stored in a cloud database with authorization access policy. Data is transmitted SSL protected channels only.
+All data is stored in a cloud database with authorization access policy. Data is transmitted via SSL protected channels only.
 
 <h4>6. Changes to this Privacy Policy</h4>
 
-Upon changes to this Privacy Policy, the Users will be notified in the SMSC Inspector, upon downloading update. 
+Upon changes to this Privacy Policy, the Users will be notified in the SMSC Inspector after downloading its update. 
